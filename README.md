@@ -34,7 +34,7 @@ Now that you’ve said your greetings, go back to the question. Because students
 
 Pretty vague, right? As a coach, you want the student first to be clear about what the problem is. How can you get the student to be more specific?
 
-- First tell them that we’re going to break their problem down further.
+First tell them that we’re going to break their problem down further.
 - Ask them what they expected to see
 - Ask them what they saw instead
 - Ask them if they can explain what they saw instead
